@@ -2,3 +2,6 @@ This is master branch
 
 User 1 said: I will push first
 User 2 said: die again
+
+
+Try another to understand
