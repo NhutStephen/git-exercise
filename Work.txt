@@ -11,3 +11,4 @@ User 1: hmm try another
 
 
 User 2 test
+git merge is not the same with git rebase
